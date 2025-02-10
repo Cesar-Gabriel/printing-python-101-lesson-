@@ -62,4 +62,3 @@ This project is licensed under the Apache License. See the [LICENSE](LICENSE) fi
 If you have any questions, feel free to open an issue or contact the repository owner.
 
 Happy Learning!
-```
